@@ -1,4 +1,4 @@
-_# Payment_Reminder_App_
+# Payment_Reminder_App
 **Project Description**
 The project uses JavaScript as the primary language and Node.js for the server-side and HTML, CSS for the frontend. It leverages the following packages for its functionalities:
 
